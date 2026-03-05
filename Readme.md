@@ -11,23 +11,23 @@ The objective of this project is to demonstrate a real-world analytics workflow 
 
 ## Overview Dashboard
 
-![Overview Dashboard](assets/ipl_overview.png)
+![Overview Dashboard](assests/ipl_overview.png)
 
 ## Team Performance Analysis
 
-![Team Analysis](assets/team_analysis.png)
+![Team Analysis](assests/team_analysis.png)
 
 ## Batting Performance Analysis
 
-![Batting Analysis](assets/batting_analysis.png)
+![Batting Analysis](assests/batting_analysis.png)
 
 ## Bowling Performance Analysis
 
-![Bowling Analysis](assets/bowling_analysis.png)
+![Bowling Analysis](assests/bowling_analysis.png)
 
 ## Venue Insights
 
-![Venue Analysis](assets/venue_insight.png)
+![Venue Analysis](assests/venue_insight.png)
 
 ---
 

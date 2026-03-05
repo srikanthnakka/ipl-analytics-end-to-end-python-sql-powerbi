@@ -27,7 +27,7 @@ The objective of this project is to demonstrate a real-world analytics workflow 
 
 ## Venue Insights
 
-![Venue Analysis](assets/venue_insights.png)
+![Venue Analysis](assets/venue_insight.png)
 
 ---
 
